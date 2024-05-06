@@ -1,0 +1,1 @@
+Use `gsutil -m cp -r public/ gs://bucket_name` to copy from public to GCP
