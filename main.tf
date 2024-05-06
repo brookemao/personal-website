@@ -1,3 +1,11 @@
+terraform {
+    required_providers {
+      cloudflare = {
+        source  = "cloudflare/cloudflare"
+      }
+    }
+}
+
 provider "google" {
   project = var.project_name
   region  = "us-west1"
@@ -28,6 +36,7 @@ module "site" {
   account_id = var.account_id
   domain = var.domain
   site_name = var.site_name
+  repo_name = var.repo_name
   project_name = var.project_name
 }
 

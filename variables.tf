@@ -17,3 +17,7 @@ variable "account_id" {
 variable "domain" {
   type = string
 }
+
+variable "repo_name" {
+    type = string 
+}
