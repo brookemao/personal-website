@@ -33,6 +33,7 @@ module "site" {
     cloudflare = cloudflare
   }
   
+  cloudflare_zone_id = var.cloudflare_zone_id
   account_id = var.account_id
   domain = var.domain
   site_name = var.site_name
