@@ -14,7 +14,7 @@ summary: "friends"
 <div class="imgContainer"><a href="https://rjz.lol"><img src="https://trinityjchung.com/img/8831/rjz.png"></a></div>
 <div class="imgContainer"><a href="https://www.ocf.berkeley.edu/"><img src="https://trinityjchung.com/img/8831/ocf.png"></a></div>
 
-[Joshua Bromley](https://joshnet.pages.dev/) - [Trinity Chung](https://trinityjchung.com) - [Ben Cuan](https://bencuan.me/) - [Nikhil Jha](https://nikhiljha.com/) - [Ethan Wu](https://ethanwu.dev/) - [Ben Plate](https://ben9583.com/) - [Ronit Nath](https://ronitnath.com/) - [Oliver Ni](https://oliver.ni/) - [Albert Ye](https://aly.sh/) - [Andy Tsai](https://www.ocf.berkeley.edu/~andytsai/)
+[Joshua Bromley](https://joshnet.pages.dev/) - [Trinity Chung](https://trinityjchung.com) - [Ben Cuan](https://bencuan.me/) - [Nikhil Jha](https://nikhiljha.com/) - [Ethan Wu](https://ethanwu.dev/) - [Ben Plate](https://ben9583.com/) - [Ronit Nath](https://ronitnath.com/) - [Oliver Ni](https://oliver.ni/) - [Albert Ye](https://aly.sh/) - [Andy Tsai](https://www.ocf.berkeley.edu/~andytsai/) - [Ankil Patel](https://ankilp.github.io/) - [Ian Stapleton Cordasco](https://ian.stapletoncordas.co/)
 
 
 <br>
