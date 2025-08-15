@@ -20,5 +20,5 @@ summary: "friends"
 <br>
 
 If you want to add me to your site, here's a button that links back to me.
-[![Bill Mao](/images/brooke_button.png)](https://brookemao.ca)
+[![Brooke Mao](/images/brooke_button.png)](https://brookemao.ca)
 
