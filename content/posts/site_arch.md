@@ -1,5 +1,5 @@
 ---
-author: ["Bill Mao"]
+author: ["Brooke Mao"]
 title: "Site Architecture: How Github Commits Reach Your Screen"
 date: "2024-05-07"
 description: "First article describing how this site is built."
